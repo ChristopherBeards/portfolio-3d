@@ -1,4 +1,6 @@
-import logo from "./logo.svg";
+import logo from "./logo.png";
+import logo2 from "./logo2.png";
+import favicon from "./favicon.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -22,16 +24,16 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import bloomtech from "./company/bloomtech.png";
+import clover from "./company/clover.png";
+import emptyboxmedia from "./company/emptyboxmedia.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import byo from "./byo.png";
+import dotcom from "./dotcom.png";
 
 export {
   logo,
+  logo2,
   backend,
   creator,
   mobile,
@@ -53,10 +55,10 @@ export {
   typescript,
   threejs,
   meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  bloomtech,
+  clover,
+  byo,
+  dotcom,
+  emptyboxmedia,
+  favicon,
 };

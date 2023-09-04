@@ -2,6 +2,43 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Documentation
+
+### Core Libraries
+- **React**: [Documentation](https://reactjs.org/docs/getting-started.html)
+- **React-DOM**: [Documentation](https://reactjs.org/docs/react-dom.html)
+
+### UI/UX & Styling
+- **Tailwind CSS**: [Documentation](https://tailwindcss.com/docs)
+- **React-Tilt**: [NPM Package](https://www.npmjs.com/package/react-tilt)
+- **React-Vertical-Timeline-Component**: [NPM Package](https://www.npmjs.com/package/react-vertical-timeline-component)
+- **Framer-Motion**: [NPM Package](https://www.npmjs.com/package/framer-motion)
+
+### Navigation & Routing
+- **React Router DOM**: [Documentation](https://reactrouter.com/web/guides/quick-start)
+
+### Graphics & Visualization
+- **React-Three-Fiber**: [Documentation](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+- **@react-three/drei**: [NPM Package](https://www.npmjs.com/package/@react-three/drei)
+- **Three.js**: [Official Documentation](https://threejs.org/docs/)
+- **CanvasJS**: [Documentation](https://canvasjs.com/docs/charts/integration/react/)
+
+### Utilities
+- **Maath**: [NPM Package](https://www.npmjs.com/package/maath)
+
+### Email & Communication
+- **@emailjs/browser**: [NPM Package](https://www.npmjs.com/package/@emailjs/browser)
+
+### Development & Tooling (from `devDependencies`)
+- **@types/react**: [DefinitelyTyped](https://definitelytyped.org/)
+- **@types/react-dom**: [DefinitelyTyped](https://definitelytyped.org/)
+- **eslint**: [Documentation](https://eslint.org/docs/user-guide/getting-started)
+- **eslint-plugin-react**: [GitHub Repository](https://github.com/yannickcr/eslint-plugin-react)
+- **eslint-plugin-react-hooks**: [Rules Documentation](https://reactjs.org/docs/hooks-rules.html)
+- **eslint-plugin-react-refresh**: [GitHub Repository](https://github.com/facebook/react/tree/main/packages/eslint-plugin-react-refresh)
+- **prettier**: [Documentation](https://prettier.io/docs/en/index.html)
+- **@vitejs/plugin-react**: [GitHub Repository](https://github.com/vitejs/vite/tree/main/packages/plugin-react)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -28,22 +65,6 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
 
