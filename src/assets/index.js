@@ -1,5 +1,6 @@
 import logo from "./logo.png";
 import logo2 from "./logo2.png";
+import logo2Purple from "./logo2-purple.png";
 import favicon from "./favicon.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
@@ -34,6 +35,7 @@ import dotcom from "./dotcom.png";
 export {
   logo,
   logo2,
+  logo2Purple,
   backend,
   creator,
   mobile,

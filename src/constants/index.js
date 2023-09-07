@@ -186,7 +186,7 @@ const projects = [
   {
     name: "Build Your Own (BYO)",
     description:
-      "Revolutionizing the way people purchase their devices at Clover. BYO is a web application that allows users to build their own Clover system, selecting what best suites their needs.",
+      "Revolutionizing the way people purchase their devices at Clover. BYO is a web application that allows users to build their own Clover system, selecting what best suits their needs.",
     tags: [
       {
         name: "react",

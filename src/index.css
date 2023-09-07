@@ -12,6 +12,54 @@
   color-scheme: dark;
 }
 
+/* KEYFRAMES */
+@keyframes shimmer {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+@keyframes flashingCursor {
+  0%, 20% {
+    opacity: 1;
+  }
+  21%, 100% {
+    opacity: 0;
+  }
+}
+
+.shimmerText {
+  background: linear-gradient(90deg, #fff, #925eff, #fff);
+  -webkit-background-clip: text;
+  color: transparent;
+  background-size: 200% 100%;
+  animation: shimmer 10s infinite;
+}
+
+.flashingCursor {
+  animation: flashingCursor 1s infinite;
+}
+
+.logo-transition {
+  transition: opacity 0.1s ease; /* Adjust for desired transition duration */
+}
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  z-index: 1;
+}
+
+.text-secondary {
+  position: relative;
+  z-index: 2;
+}
+
 .hash-span {
   margin-top: -100px;
   padding-bottom: 100px;
